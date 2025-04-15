@@ -1,9 +1,9 @@
 
 <body>
   <header class="container">
-  <h4> OLÁ, BEM VINDO AO MEU PORTIFOLIO<h4>
+  <h1> OLÁ, BEM VINDO AO MEU PORTIFOLIO<h1>
     <p>Eu sou Arthur</p>
-    <h1>Eu estou aprendendo computação</h1>
+    <h4>Eu estou aprendendo computação</h4>
     <p>
      Estou no 2° ano do Ensino Medio, e estou aprendendo junto as aulas a programar, estou começando e pretendo seguir essa carreira
     </p>
