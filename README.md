@@ -1,7 +1,7 @@
 
 <body>
   <header class="container">
-  <title> OLÁ, BEM VINDO AO MEU PORTIFOLIO</title>
+  <h4> OLÁ, BEM VINDO AO MEU PORTIFOLIO<h4>
     <p>Eu sou Arthur</p>
     <h1>Eu estou aprendendo computação</h1>
     <p>
