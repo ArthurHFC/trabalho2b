@@ -1,7 +1,7 @@
 <!-- código omitido -->
 <body>
   <header class="container">
-    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="" />
+ 
     <p>Eu sou Arthur</p>
     <h1>Eu estou aprendendo computação</h1>
     <p>
