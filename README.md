@@ -7,7 +7,7 @@
     <p>
      Estou no 2° ano do Ensino Medio, e estou aprendendo junto as aulas a programar, estou começando e pretendo seguir essa carreira
     </p>
-    <p>Minhas habilidades</p>
+    <p>Minhas habilidades:</p>
     <div>
       <p>HTML</p>
       <p>CSS</p>
