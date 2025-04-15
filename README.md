@@ -1,7 +1,6 @@
 <!-- código omitido -->
 <body>
   <header class="container">
- 
     <p>Eu sou Arthur</p>
     <h1>Eu estou aprendendo computação</h1>
     <p>
