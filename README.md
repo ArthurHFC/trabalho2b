@@ -9,10 +9,13 @@
     </p>
     <p>Minhas habilidades:</p>
     <div>
-      <p>HTML</p>
-      <p>CSS</p>
-      <p>JavaScript</p>
-      <p>Scratch</p>
+      <p class= "badge bg-secondary">HTML</p>
+      <p class= "badge bg-secondary">CSS</p>
+      <p class= "badge bg-secondary">JavaScript</p>
+      <p class= "badge bg-secondary">Scratch</p>
     </div>
   </header>
+
+  <main class= "container">
+     <h2> Meus Projetos </h2>
 </body>
